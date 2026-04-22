@@ -24,7 +24,7 @@ Abaixo, apresento os resultados da análise paramétrica realizada no software A
 
 **2. Análise de Sensibilidade**
 Este estudo focou em observar como a variação da vazão mássica do ar impacta diretamente na temperatura de saída da água, essencial para a otimização energética.
-![Sensibilidade](LINK_DA_IMAGEM_SENSIBILIDADE)
+![Sensibilidade](imagem_2026-04-22_134936352.png)
 *Figura 2: Análise de sensibilidade da temperatura de saída da água x vazão mássica do ar.*
 
 **3. Validação do Modelo (Gráfico de Paridade)**
