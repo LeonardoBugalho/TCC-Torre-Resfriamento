@@ -20,37 +20,37 @@ Avaliar a eficiência térmica e hídrica de uma torre de resfriamento e propor 
 **1. Modelagem Paramétrica**
 Abaixo, apresento os resultados das análises paramétricas realizadas no software Aspen Plus, que permitiu o mapeamento das variáveis operacionais do sistema.
 
-![Análise Paramétrica](imagem_2026-04-22_135506609.png)
+![Análise Paramétrica](analise-parametro-1.png.png)
 
 *Figura 1: Influência da vazão de água na temperatura de saída sob diferentes condições de temperatura do ar*
 
-![Análise Paramétrica](imagem_2026-04-22_135758073.png)
+![Análise Paramétrica](analise-parametro-2.png.png)
 
 *Figura 2: Influência da vazão de ar na temperatura de saída da água sob diferentes condições de temperatura de entrada da água*
 
 **2. Análise de Sensibilidade**
 Este estudo focou em observar como a variação da vazão mássica do ar impacta diretamente na temperatura de saída da água, essencial para a otimização energética.
 
-![Sensibilidade](imagem_2026-04-22_134936352.png)
+![Sensibilidade](analise-sensibilidade.png)
 
 *Figura 3: Análise de sensibilidade da temperatura de saída da água x vazão mássica do ar.*
 
 **3. Validação do Modelo (Gráfico de Paridade)**
 Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando os valores simulados no AspenPlus com os dados experimentais.
 
-![Gráfico de Paridade](imagem_2026-04-22_133757229.png)
+![Gráfico de Paridade](grafico-paridade.png)
 
 *Figura 4: Gráfico de paridade da temperatura de saída da água*
 
 **4. Simulação Fluidodinâmica (CFD)**
 Por fim, realizamos a simulação em ANSYS CFD para visualizar o escoamento interno e compreender o comportamento do fluido dentro da torre.
 
-![CFD](imagem_2026-04-22_135925312.png)
+![CFD](simluacao-cfd-1.png)
 
 *Figura 5: Simulação de escoamento no ANSYS CFD, onde a distribuição da fração volumétrica da fase líquida real no interior da torre de
 resfriamento (v = 0,83 m/s).*
 
-![CFD](imagem_2026-04-22_135951931.png)
+![CFD](simulacao-cfd-2.png)
 
 *Figura 5: Simulação de escoamento no ANSYS CFD, onde distribuição da fração volumétrica da fase líquida de projeto no interior da
 torre de resfriamento (v = 0,46 m/s)*
