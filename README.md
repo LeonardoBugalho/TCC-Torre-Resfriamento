@@ -18,9 +18,15 @@ Avaliar a eficiência térmica e hídrica de uma torre de resfriamento e propor 
 ### 📈 Resultados da Simulação e Validação
 
 **1. Modelagem Paramétrica**
-Abaixo, apresento os resultados da análise paramétrica realizada no software Aspen Plus, que permitiu o mapeamento das variáveis operacionais do sistema.
-![Análise Paramétrica](LINK_DA_IMAGEM_PARAMETRICA)
-*Figura 1: Gráficos de análise paramétrica no Aspen Plus.*
+Abaixo, apresento os resultados das análises paramétricas realizadas no software Aspen Plus, que permitiu o mapeamento das variáveis operacionais do sistema.
+
+![Análise Paramétrica](imagem_2026-04-22_135506609.png)
+
+*Figura 1: Influência da vazão de água na temperatura de saída sob diferentes condições de temperatura do ar*
+
+![Análise Paramétrica]()
+
+*Figura 2: Influência da vazão de ar na temperatura de saída da água sob diferentes condições de temperatura de entrada da água*
 
 **2. Análise de Sensibilidade**
 Este estudo focou em observar como a variação da vazão mássica do ar impacta diretamente na temperatura de saída da água, essencial para a otimização energética.
