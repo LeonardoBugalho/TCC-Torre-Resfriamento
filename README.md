@@ -50,7 +50,7 @@ Por fim, realizamos a simulação em ANSYS CFD para visualizar o escoamento inte
 *Figura 5: Simulação de escoamento no ANSYS CFD, onde a distribuição da fração volumétrica da fase líquida real no interior da torre de
 resfriamento (v = 0,83 m/s).*
 
-![CFD]()
+![CFD](imagem_2026-04-22_135951931.png)
 
 *Figura 5: Simulação de escoamento no ANSYS CFD, onde distribuição da fração volumétrica da fase líquida de projeto no interior da
 torre de resfriamento (v = 0,46 m/s)*
