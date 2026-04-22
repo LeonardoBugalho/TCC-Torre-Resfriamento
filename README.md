@@ -58,6 +58,6 @@ torre de resfriamento (v = 0,46 m/s)*
 > **Conclusão Técnica:** A análise conjunta desses gráficos permitiu o mapeamento do rendimento térmico do sistema, sendo a base para as propostas de melhorias operacionais apresentadas no trabalho.
 ## 📂 Arquivos Disponíveis
 - `Entrega Final.pdf`: Documento completo com toda a fundamentação teórica, cálculos e conclusões.
-
+![Arquivo TCC](TCC_Torre_Resfriamento.pdf)
 ---
 *Projeto desenvolvido como requisito para conclusão do curso de Engenharia Química.*
