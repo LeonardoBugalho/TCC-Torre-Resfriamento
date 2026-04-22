@@ -24,7 +24,7 @@ Abaixo, apresento os resultados das análises paramétricas realizadas no softwa
 
 *Figura 1: Influência da vazão de água na temperatura de saída sob diferentes condições de temperatura do ar*
 
-![Análise Paramétrica]()
+![Análise Paramétrica](imagem_2026-04-22_135758073.png)
 
 *Figura 2: Influência da vazão de ar na temperatura de saída da água sob diferentes condições de temperatura de entrada da água*
 
