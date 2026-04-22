@@ -45,7 +45,7 @@ Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando
 **4. Simulação Fluidodinâmica (CFD)**
 Por fim, realizamos a simulação em ANSYS CFD para visualizar o escoamento interno e compreender o comportamento do fluido dentro da torre.
 
-![CFD](simluacao-cfd-1.png)
+![CFD](simulacao-cfd-1.png)
 
 *Figura 5: Simulação de escoamento no ANSYS CFD, onde a distribuição da fração volumétrica da fase líquida real no interior da torre de
 resfriamento (v = 0,83 m/s).*
