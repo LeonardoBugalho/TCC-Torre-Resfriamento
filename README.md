@@ -28,7 +28,7 @@ Este estudo focou em observar como a variação da vazão mássica do ar impacta
 *Figura 2: Análise de sensibilidade da temperatura de saída da água x vazão mássica do ar.*
 
 **3. Validação do Modelo (Gráfico de Paridade)**
-Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando os valores simulados com os dados experimentais.
+Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando os valores simulados no AspenPlus com os dados experimentais.
 [Gráfico de Paridade](imagem_2026-04-22_133757229.png)
 
 
