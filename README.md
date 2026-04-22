@@ -31,7 +31,8 @@ Este estudo focou em observar como a variação da vazão mássica do ar impacta
 
 **3. Validação do Modelo (Gráfico de Paridade)**
 Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando os valores simulados no AspenPlus com os dados experimentais.
-[Gráfico de Paridade](imagem_2026-04-22_133757229.png)
+
+![Gráfico de Paridade](imagem_2026-04-22_133757229.png)
 
 
 **4. Simulação Fluidodinâmica (CFD)**
