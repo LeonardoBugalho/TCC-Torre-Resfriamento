@@ -29,7 +29,7 @@ Este estudo focou em observar como a variação da vazão mássica do ar impacta
 
 **3. Validação do Modelo (Gráfico de Paridade)**
 Para garantir a confiabilidade dos dados, validamos o modelo teórico comparando os valores simulados com os dados experimentais.
-![Paridade](LINK_DA_IMAGEM_PARIDADE)
+[Gráfico de Paridade](imagem_2026-04-22_133757229.png)
 
 
 **4. Simulação Fluidodinâmica (CFD)**
